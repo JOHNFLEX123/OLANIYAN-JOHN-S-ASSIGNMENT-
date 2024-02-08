@@ -3,19 +3,22 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>JOHN ASSIGNMENT</title>
 </head>
 <body>
     <?php
-        $int = 5;
+        $t = 45;
         $i = 0;
-        $str = "moyo";
 
-        $double = 1.3;
+        $str = "JOHN";
+
+        $double = 5.5;
         $d = 0.0;
 
-        echo $int + $i . "<br>";
+        echo $t + $i . "<br>";
         echo $double + $d ."<br>";
+
+
         echo "Your name is ". $str;
 
 
